@@ -1,4 +1,5 @@
-# Learning ML
+# ml-from-scratch
+
 
 > [!NOTE]
 > Repository documenting my implementations of classical machine learning algorithms and experiments.
